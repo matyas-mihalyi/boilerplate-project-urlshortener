@@ -17,5 +17,9 @@
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "author": "Matyas Mihalyi",
+	"engines": {
+		"node": "16.13.1"
+	}
 }
